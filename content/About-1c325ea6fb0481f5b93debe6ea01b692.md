@@ -1,26 +1,26 @@
 ---
 title: "About"
-date: "2022-09-01T10:33:00.000Z"
-lastmod: "2024-12-20T16:27:00.000Z"
+date: "2025-03-27T20:49:00.000Z"
+lastmod: "2025-03-27T20:49:00.000Z"
 draft: false
 authors:
-  - "PCloud"
+  - "Pasha Flayt"
 NOTION_METADATA:
   object: "page"
-  id: "45eb1211-58b9-4894-80ec-000fd25c812b"
-  created_time: "2022-09-01T10:33:00.000Z"
-  last_edited_time: "2024-12-20T16:27:00.000Z"
+  id: "1c325ea6-fb04-81f5-b93d-ebe6ea01b692"
+  created_time: "2025-03-27T20:49:00.000Z"
+  last_edited_time: "2025-03-27T20:49:00.000Z"
   created_by:
     object: "user"
-    id: "657d1c71-eca5-475d-b9d3-3669efd38ab9"
+    id: "9ea082f0-7e23-4ce2-a099-6806d5ca039e"
   last_edited_by:
     object: "user"
-    id: "657d1c71-eca5-475d-b9d3-3669efd38ab9"
+    id: "9ea082f0-7e23-4ce2-a099-6806d5ca039e"
   cover: null
   icon: null
   parent:
     type: "page_id"
-    page_id: "04bcc51c-fe4c-4993-8229-c35e4f0a6fb6"
+    page_id: "1c325ea6-fb04-8000-8a69-f0cacce15467"
   archived: false
   in_trash: false
   properties:
@@ -41,9 +41,9 @@ NOTION_METADATA:
             color: "default"
           plain_text: "About"
           href: null
-  url: "https://www.notion.so/About-45eb121158b9489480ec000fd25c812b"
-  public_url: "https://pcloud.notion.site/About-45eb121158b9489480ec000fd25c812b"
-  request_id: "4e8e9b11-e0c2-40ca-a464-50593d7eecf3"
+  url: "https://www.notion.so/About-1c325ea6fb0481f5b93debe6ea01b692"
+  public_url: "https://flait.notion.site/About-1c325ea6fb0481f5b93debe6ea01b692"
+  request_id: "096e9875-c472-489a-839d-f97b568de4a1"
 MANAGED_BY_NOTION_HUGO: true
 
 ---
@@ -163,7 +163,7 @@ Thanks to the authors of following resources included in the theme:
 - [Topbar](https://github.com/buunguyen/topbar)
 - [Remark42](https://remark42.com/)
 
-[Test Child Page](0e4a8fe1-2140-46ca-b1ef-3d658785f211)
+[Test Child Page](1c325ea6-fb04-81b3-96cd-d0e06308d1cd)
 
 
 	## How I am feeling today
