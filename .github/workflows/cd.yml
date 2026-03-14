@@ -46,7 +46,7 @@ jobs:
         env:
          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
         run: |
-          npm install
+          npm ci
           npm start
 
       - name: Commit updated content
