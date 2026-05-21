@@ -1,7 +1,7 @@
 ---
-title: "CV"
+title: "CV - Pavel Flait"
 date: "2026-03-12T14:28:00.000Z"
-lastmod: "2026-03-16T07:47:00.000Z"
+lastmod: "2026-05-20T13:49:00.000Z"
 draft: false
 featuredImage: "https://images.unsplash.com/photo-1628565176530-025986248033?ix\
   lib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb"
@@ -12,12 +12,12 @@ tags:
   - "CV"
   - "Eng"
 categories: []
-summary: "Hello!"
+summary: "Hi, i’m Pavel. Explore my background, skills, and experience."
 NOTION_METADATA:
   object: "page"
   id: "32125ea6-fb04-8007-b430-d416e42ece8c"
   created_time: "2026-03-12T14:28:00.000Z"
-  last_edited_time: "2026-03-16T07:47:00.000Z"
+  last_edited_time: "2026-05-20T13:49:00.000Z"
   created_by:
     object: "user"
     id: "9ea082f0-7e23-4ce2-a099-6806d5ca039e"
@@ -37,6 +37,7 @@ NOTION_METADATA:
     data_source_id: "1c325ea6-fb04-8198-ad59-000ba787c3a8"
     database_id: "1c325ea6-fb04-81a7-9fd4-e302d7773522"
   in_trash: false
+  is_archived: false
   is_locked: false
   properties:
     series:
@@ -81,14 +82,14 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2026-03-16T07:47:00.000Z"
+      last_edited_time: "2026-05-20T13:49:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
       rich_text:
         - type: "text"
           text:
-            content: "Hello!"
+            content: "Hi, i’m Pavel. Explore my background, skills, and experience."
             link: null
           annotations:
             bold: false
@@ -97,7 +98,7 @@ NOTION_METADATA:
             underline: false
             code: false
             color: "default"
-          plain_text: "Hello!"
+          plain_text: "Hi, i’m Pavel. Explore my background, skills, and experience."
           href: null
     Name:
       id: "title"
@@ -105,7 +106,7 @@ NOTION_METADATA:
       title:
         - type: "text"
           text:
-            content: "CV"
+            content: "CV - Pavel Flait"
             link: null
           annotations:
             bold: false
@@ -114,10 +115,10 @@ NOTION_METADATA:
             underline: false
             code: false
             color: "default"
-          plain_text: "CV"
+          plain_text: "CV - Pavel Flait"
           href: null
-  url: "https://www.notion.so/CV-32125ea6fb048007b430d416e42ece8c"
-  public_url: "https://flait.notion.site/CV-32125ea6fb048007b430d416e42ece8c"
+  url: "https://www.notion.so/CV-Pavel-Flait-32125ea6fb048007b430d416e42ece8c"
+  public_url: "https://flait.notion.site/CV-Pavel-Flait-32125ea6fb048007b430d416e42ece8c"
   archived: false
 MANAGED_BY_NOTION_HUGO: true
 
